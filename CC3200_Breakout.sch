@@ -16403,12 +16403,9 @@ Solder type</description>
 <part name="TP13" library="SparkFun-Connectors" deviceset="CONN_01" device=""/>
 <part name="C1" library="SparkFun-Capacitors" deviceset="0.1UF" device="-0402-16V-10%" value="0.1uF"/>
 <part name="C2" library="SparkFun-Capacitors" deviceset="1.0UF" device="-0402-16V-10%" value="1.0uF"/>
-<part name="GND33" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
-<part name="GND34" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="GND35" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="TP1" library="SparkFun-Connectors" deviceset="CONN_01" device=""/>
 <part name="TP2" library="SparkFun-Connectors" deviceset="CONN_01" device=""/>
-<part name="GND36" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="GND37" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="C3" library="SparkFun-Capacitors" deviceset="10UF" device="-0603-6.3V-20%" value="10uF"/>
 <part name="GND38" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
@@ -16485,6 +16482,9 @@ Solder type</description>
 <part name="GND63" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
 <part name="R7" library="SparkFun-Resistors" deviceset="10KOHM" device="-0603-1/10W-1%" value="10k"/>
 <part name="SUPPLY7" library="SparkFun-Aesthetics" deviceset="3.3V" device=""/>
+<part name="GND64" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
+<part name="GND33" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
+<part name="GND34" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -17635,12 +17635,9 @@ Solder type</description>
 <instance part="TP13" gate="G$1" x="-63.5" y="160.02" rot="R270"/>
 <instance part="C1" gate="G$1" x="-114.3" y="149.86"/>
 <instance part="C2" gate="G$1" x="-127" y="149.86"/>
-<instance part="GND33" gate="1" x="-127" y="144.78"/>
-<instance part="GND34" gate="1" x="-114.3" y="144.78"/>
 <instance part="GND35" gate="1" x="-83.82" y="129.54"/>
 <instance part="TP1" gate="G$1" x="-76.2" y="127"/>
 <instance part="TP2" gate="G$1" x="-76.2" y="119.38"/>
-<instance part="GND36" gate="1" x="-66.04" y="106.68"/>
 <instance part="GND37" gate="1" x="35.56" y="104.14"/>
 <instance part="C3" gate="G$1" x="45.72" y="106.68"/>
 <instance part="GND38" gate="1" x="45.72" y="101.6"/>
@@ -17718,6 +17715,9 @@ Solder type</description>
 <instance part="JMP5" gate="G$2" x="261.62" y="27.94" rot="MR0"/>
 <instance part="JMP1" gate="-0R" x="203.2" y="68.58"/>
 <instance part="JMP1" gate="G$2" x="200.66" y="71.12"/>
+<instance part="GND64" gate="1" x="-66.04" y="106.68"/>
+<instance part="GND33" gate="1" x="-114.3" y="144.78"/>
+<instance part="GND34" gate="1" x="-127" y="144.78"/>
 </instances>
 <busses>
 </busses>
@@ -17811,24 +17811,10 @@ Solder type</description>
 </net>
 <net name="GND" class="0">
 <segment>
-<pinref part="C2" gate="G$1" pin="2"/>
-<pinref part="GND33" gate="1" pin="GND"/>
-</segment>
-<segment>
-<pinref part="C1" gate="G$1" pin="2"/>
-<pinref part="GND34" gate="1" pin="GND"/>
-</segment>
-<segment>
 <pinref part="U1" gate="A" pin="OVISS"/>
 <wire x1="-50.8" y1="134.62" x2="-83.82" y2="134.62" width="0.1524" layer="91"/>
 <pinref part="GND35" gate="1" pin="GND"/>
 <wire x1="-83.82" y1="134.62" x2="-83.82" y2="132.08" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="GND36" gate="1" pin="GND"/>
-<wire x1="-66.04" y1="109.22" x2="-66.04" y2="121.92" width="0.1524" layer="91"/>
-<pinref part="U1" gate="A" pin="SPI_SELECT"/>
-<wire x1="-66.04" y1="121.92" x2="-50.8" y2="121.92" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="U1" gate="A" pin="AVSS"/>
@@ -17987,6 +17973,20 @@ Solder type</description>
 <wire x1="-96.52" y1="-50.8" x2="-104.14" y2="-50.8" width="0.1524" layer="91"/>
 <wire x1="-104.14" y1="-50.8" x2="-104.14" y2="-53.34" width="0.1524" layer="91"/>
 <pinref part="GND62" gate="1" pin="GND"/>
+</segment>
+<segment>
+<wire x1="-66.04" y1="109.22" x2="-66.04" y2="121.92" width="0.1524" layer="91"/>
+<pinref part="U1" gate="A" pin="SPI_SELECT"/>
+<wire x1="-66.04" y1="121.92" x2="-50.8" y2="121.92" width="0.1524" layer="91"/>
+<pinref part="GND64" gate="1" pin="GND"/>
+</segment>
+<segment>
+<pinref part="C1" gate="G$1" pin="2"/>
+<pinref part="GND33" gate="1" pin="GND"/>
+</segment>
+<segment>
+<pinref part="C2" gate="G$1" pin="2"/>
+<pinref part="GND34" gate="1" pin="GND"/>
 </segment>
 </net>
 <net name="N$26" class="0">
