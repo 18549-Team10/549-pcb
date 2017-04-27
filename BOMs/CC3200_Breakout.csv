@@ -1,0 +1,96 @@
+Part,Value,Device,Package,Description,Link to Part Website,Store Name,Quantity,Unit Price,Total Price,
+C1,0.1uF,0.1UF-0402-16V-10%,402,0.1µF ceramic capacitors,http://www.mouser.com/ProductDetail/KEMET/C0402T104K4RACTU/?qs=sGAEpiMZZMs0AnBnWHyRQG4nlryFpqk0iuldPAFqr2g%3d,Mouser,1,$1.24,,CAP-12416
+C2,1.0uF,1.0UF-0402-16V-10%,402,1µF ceramic capacitors,http://www.mouser.com/ProductDetail/AVX/04026C105KAT2A/?qs=sGAEpiMZZMs0AnBnWHyRQHZRmD76Lk0UbFlc%252b4vkiNJTEKHPFmPYNg%3d%3d,Mouser,,$0.25,,CAP-12417
+C3,10uF,10UF-0603-6.3V-20%,603,10.0µF ceramic capacitors,http://www.mouser.com/ProductDetail/Murata-Electronics/GRM188R60J106ME47D/?qs=sGAEpiMZZMs0AnBnWHyRQFQYdTDrJniY4E0Jk0DRoCg%3d,Mouser,,$0.17,,CAP-11015
+C4,10uF,10UF-0603-6.3V-20%,603,10.0µF ceramic capacitors,http://www.mouser.com/ProductDetail/Murata-Electronics/GRM188R60J106ME47D/?qs=sGAEpiMZZMs0AnBnWHyRQFQYdTDrJniY4E0Jk0DRoCg%3d,Mouser,,$0.17,,CAP-11015
+C5,0.1uF,0.1UF-0402-16V-10%,402,0.1µF ceramic capacitors,http://www.mouser.com/ProductDetail/KEMET/C0402T104K4RACTU/?qs=sGAEpiMZZMs0AnBnWHyRQG4nlryFpqk0iuldPAFqr2g%3d,Mouser,,$1.24,,CAP-12416
+C6,1.0uF,1.0UF-0402-16V-10%,402,1µF ceramic capacitors,http://www.mouser.com/ProductDetail/AVX/04026C105KAT2A/?qs=sGAEpiMZZMs0AnBnWHyRQHZRmD76Lk0UbFlc%252b4vkiNJTEKHPFmPYNg%3d%3d,Mouser,,$0.25,,CAP-12417
+C7,10uF,10UF-0603-6.3V-20%,603,10.0µF ceramic capacitors,http://www.mouser.com/ProductDetail/Murata-Electronics/GRM188R60J106ME47D/?qs=sGAEpiMZZMs0AnBnWHyRQFQYdTDrJniY4E0Jk0DRoCg%3d,Mouser,,$0.17,,CAP-11015
+C8,0.8uF,C-USC0402K,C0402K,"CAPACITOR, American symbol",http://www.mouser.com/ProductDetail/Murata-Electronics/GRM155R61A824KE15D/?qs=sGAEpiMZZMs0AnBnWHyRQCxvYDcCBBVRsMJMHmtNsXc%3d,Mouser,,0.17,,
+C9,0.1uF,0.1UF-0402-16V-10%,402,0.1µF ceramic capacitors,http://www.mouser.com/ProductDetail/KEMET/C0402T104K4RACTU/?qs=sGAEpiMZZMs0AnBnWHyRQG4nlryFpqk0iuldPAFqr2g%3d,Mouser,,$1.24,,CAP-12416
+C10,1.0uF,1.0UF-0402-16V-10%,402,1µF ceramic capacitors,http://www.mouser.com/ProductDetail/AVX/04026C105KAT2A/?qs=sGAEpiMZZMs0AnBnWHyRQHZRmD76Lk0UbFlc%252b4vkiNJTEKHPFmPYNg%3d%3d,Mouser,,$0.25,,CAP-12417
+C11,0.1uF,0.1UF-0402-16V-10%,402,0.1µF ceramic capacitors,http://www.mouser.com/ProductDetail/KEMET/C0402T104K4RACTU/?qs=sGAEpiMZZMs0AnBnWHyRQG4nlryFpqk0iuldPAFqr2g%3d,Mouser,,$1.24,,CAP-12416
+C12,1.0uF,1.0UF-0402-16V-10%,402,1µF ceramic capacitors,http://www.mouser.com/ProductDetail/AVX/04026C105KAT2A/?qs=sGAEpiMZZMs0AnBnWHyRQHZRmD76Lk0UbFlc%252b4vkiNJTEKHPFmPYNg%3d%3d,Mouser,,$0.25,,CAP-12417
+C13,0.1uF,0.1UF-0402-16V-10%,402,0.1µF ceramic capacitors,http://www.mouser.com/ProductDetail/KEMET/C0402T104K4RACTU/?qs=sGAEpiMZZMs0AnBnWHyRQG4nlryFpqk0iuldPAFqr2g%3d,Mouser,,$1.24,,CAP-12416
+C14,0.1uF,0.1UF-0402-16V-10%,402,0.1µF ceramic capacitors,http://www.mouser.com/ProductDetail/KEMET/C0402T104K4RACTU/?qs=sGAEpiMZZMs0AnBnWHyRQG4nlryFpqk0iuldPAFqr2g%3d,Mouser,,$1.24,,CAP-12416
+C15,4.7nF,4.7NF-50V-10%(0603),603,CAP-11378,http://www.mouser.com/ProductDetail/Yageo/AC0402KRX7R8BB472/?qs=sGAEpiMZZMs0AnBnWHyRQBZcF7Vf94SCU%2fNDM2KkFKNV%252b%2fWlVmY00w%3d%3d,Mouser,,$0.07,,CAP-11378
+C16,0.1uF,0.1UF-0402-16V-10%,402,0.1µF ceramic capacitors,http://www.mouser.com/ProductDetail/KEMET/C0402T104K4RACTU/?qs=sGAEpiMZZMs0AnBnWHyRQG4nlryFpqk0iuldPAFqr2g%3d,Mouser,,$1.24,,CAP-12416
+C17,0.1uF,0.1UF-0402-16V-10%,402,0.1µF ceramic capacitors,http://www.mouser.com/ProductDetail/KEMET/C0402T104K4RACTU/?qs=sGAEpiMZZMs0AnBnWHyRQG4nlryFpqk0iuldPAFqr2g%3d,Mouser,,$1.24,,CAP-12416
+C18,4.7nF,4.7NF-50V-10%(0603),603,CAP-11378,http://www.mouser.com/ProductDetail/Yageo/AC0402KRX7R8BB472/?qs=sGAEpiMZZMs0AnBnWHyRQBZcF7Vf94SCU%2fNDM2KkFKNV%252b%2fWlVmY00w%3d%3d,Mouser,,$0.07,,CAP-11378
+C19,0.1uF,0.1UF-0402-16V-10%,402,0.1µF ceramic capacitors,http://www.mouser.com/ProductDetail/KEMET/C0402T104K4RACTU/?qs=sGAEpiMZZMs0AnBnWHyRQG4nlryFpqk0iuldPAFqr2g%3d,Mouser,,$1.24,,CAP-12416
+C20,1.0uF,1.0UF-0402-16V-10%,402,1µF ceramic capacitors,http://www.mouser.com/ProductDetail/AVX/04026C105KAT2A/?qs=sGAEpiMZZMs0AnBnWHyRQHZRmD76Lk0UbFlc%252b4vkiNJTEKHPFmPYNg%3d%3d,Mouser,,$0.25,,CAP-12417
+C21,0.1uF,0.1UF-0402-16V-10%,402,0.1µF ceramic capacitors,http://www.mouser.com/ProductDetail/KEMET/C0402T104K4RACTU/?qs=sGAEpiMZZMs0AnBnWHyRQG4nlryFpqk0iuldPAFqr2g%3d,Mouser,,$1.24,,CAP-12416
+C22,0.1uF,0.1UF-0402-16V-10%,402,0.1µF ceramic capacitors,http://www.mouser.com/ProductDetail/KEMET/C0402T104K4RACTU/?qs=sGAEpiMZZMs0AnBnWHyRQG4nlryFpqk0iuldPAFqr2g%3d,Mouser,,$1.24,,CAP-12416
+C23,100uF,C-USC0402K,C0402K,"CAPACITOR, American symbol",http://www.mouser.com/ProductDetail/TDK/C3216JB1A107M160AC/?qs=sGAEpiMZZMs0AnBnWHyRQFv7x1xn%252bYFdXHBC%252bjlj0Z0DZ%2fNIvyRfig%3d%3d,Mouser,,$1.65,,
+C24,100uF,C-USC0402K,C0402K,"CAPACITOR, American symbol",http://www.mouser.com/ProductDetail/TDK/C3216JB1A107M160AC/?qs=sGAEpiMZZMs0AnBnWHyRQFv7x1xn%252bYFdXHBC%252bjlj0Z0DZ%2fNIvyRfig%3d%3d,Mouser,,$1.65,,
+C25,10pF,C-USC0402K,C0402K,"CAPACITOR, American symbol",http://www.mouser.com/ProductDetail/Murata-Electronics/GRM0225C1C100JA03L/?qs=sGAEpiMZZMs0AnBnWHyRQCZFsEygxoaDSrXwiggp7%2fIXGPto0yNrPA%3d%3d,Mouser,,$0.10,,
+C26,10pF,C-USC0402K,C0402K,"CAPACITOR, American symbol",http://www.mouser.com/ProductDetail/Murata-Electronics/GRM0225C1C100JA03L/?qs=sGAEpiMZZMs0AnBnWHyRQCZFsEygxoaDSrXwiggp7%2fIXGPto0yNrPA%3d%3d,Mouser,,$0.10,,
+C27,10uF,C-USC0402K,C0402K,"CAPACITOR, American symbol",http://www.mouser.com/ProductDetail/Murata-Electronics/GRM155R60J106ME44D/?qs=sGAEpiMZZMs0AnBnWHyRQIRdmwuhZOTQAJ7SYjABJ90%3d,Mouser,,0.27,,
+C28,0.1uF,C-USC0402K,C0402K,"CAPACITOR, American symbol",http://www.mouser.com/ProductDetail/KEMET/C0402T104K4RACTU/?qs=sGAEpiMZZMs0AnBnWHyRQG4nlryFpqk0iuldPAFqr2g%3d,Mouser,,$1.24,,
+C29,0.1uF,C-USC0402K,C0402K,"CAPACITOR, American symbol",http://www.mouser.com/ProductDetail/KEMET/C0402T104K4RACTU/?qs=sGAEpiMZZMs0AnBnWHyRQG4nlryFpqk0iuldPAFqr2g%3d,Mouser,,$1.24,,
+C30,0.1uF,C-USC0402K,C0402K,"CAPACITOR, American symbol",http://www.mouser.com/ProductDetail/KEMET/C0402T104K4RACTU/?qs=sGAEpiMZZMs0AnBnWHyRQG4nlryFpqk0iuldPAFqr2g%3d,Mouser,,$1.24,,
+C31,0.1uF,C-USC0402K,C0402K,"CAPACITOR, American symbol",http://www.mouser.com/ProductDetail/KEMET/C0402T104K4RACTU/?qs=sGAEpiMZZMs0AnBnWHyRQG4nlryFpqk0iuldPAFqr2g%3d,Mouser,,$1.24,,
+C32,10uF,C-USC0402K,C0402K,"CAPACITOR, American symbol",http://www.mouser.com/ProductDetail/Murata-Electronics/GRM155R60J106ME44D/?qs=sGAEpiMZZMs0AnBnWHyRQIRdmwuhZOTQAJ7SYjABJ90%3d,Mouser,,0.27,,
+C33,4.7uF,C-USC0402K,C0402K,"CAPACITOR, American symbol",http://www.mouser.com/ProductDetail/AVX/04026C105KAT2A/?qs=sGAEpiMZZMs0AnBnWHyRQHZRmD76Lk0UbFlc%252b4vkiNJTEKHPFmPYNg%3d%3d,Mouser,,$0.25,,
+C34,22uF,C-USC0402K,C0402K,"CAPACITOR, American symbol",https://www.digikey.com/product-detail/en/samsung-electro-mechanics-america-inc/CL05A226MQ5QUNC/1276-6834-1-ND/5961693,DigiKey,,$0.69,,
+C35,0.1uF,C-USC0402K,C0402K,"CAPACITOR, American symbol",http://www.mouser.com/ProductDetail/KEMET/C0402T104K4RACTU/?qs=sGAEpiMZZMs0AnBnWHyRQG4nlryFpqk0iuldPAFqr2g%3d,Mouser,,$1.24,,
+C36,22uF,C-USC0402K,C0402K,"CAPACITOR, American symbol",https://www.digikey.com/product-detail/en/samsung-electro-mechanics-america-inc/CL05A226MQ5QUNC/1276-6834-1-ND/5961693,DigiKey,,$0.69,,
+C37,0.1uF,C-USC0402K,C0402K,"CAPACITOR, American symbol",http://www.mouser.com/ProductDetail/KEMET/C0402T104K4RACTU/?qs=sGAEpiMZZMs0AnBnWHyRQG4nlryFpqk0iuldPAFqr2g%3d,Mouser,,$1.24,,
+C38,4.7uF,C-USC0402K,C0402K,"CAPACITOR, American symbol",http://www.mouser.com/ProductDetail/AVX/04026C105KAT2A/?qs=sGAEpiMZZMs0AnBnWHyRQHZRmD76Lk0UbFlc%252b4vkiNJTEKHPFmPYNg%3d%3d,Mouser,,$0.25,,
+C39,0.1uF,C-USC0402K,C0402K,"CAPACITOR, American symbol",http://www.mouser.com/ProductDetail/KEMET/C0402T104K4RACTU/?qs=sGAEpiMZZMs0AnBnWHyRQG4nlryFpqk0iuldPAFqr2g%3d,Mouser,,$1.24,,
+C40,4.7uF,C-USC0402K,C0402K,"CAPACITOR, American symbol",http://www.mouser.com/ProductDetail/AVX/04026C105KAT2A/?qs=sGAEpiMZZMs0AnBnWHyRQHZRmD76Lk0UbFlc%252b4vkiNJTEKHPFmPYNg%3d%3d,Mouser,,$0.25,,
+C41,0.1uF,C-USC0402K,C0402K,"CAPACITOR, American symbol",http://www.mouser.com/ProductDetail/KEMET/C0402T104K4RACTU/?qs=sGAEpiMZZMs0AnBnWHyRQG4nlryFpqk0iuldPAFqr2g%3d,Mouser,,$1.24,,
+C42,0.1uF,C-USC0402K,C0402K,"CAPACITOR, American symbol",http://www.mouser.com/ProductDetail/KEMET/C0402T104K4RACTU/?qs=sGAEpiMZZMs0AnBnWHyRQG4nlryFpqk0iuldPAFqr2g%3d,Mouser,,$1.24,,
+C43,10uF,C-USC0402K,C0402K,"CAPACITOR, American symbol",http://www.mouser.com/ProductDetail/Murata-Electronics/GRM155R60J106ME44D/?qs=sGAEpiMZZMs0AnBnWHyRQIRdmwuhZOTQAJ7SYjABJ90%3d,Mouser,,0.27,,
+C44,0.1uF,C-USC0402K,C0402K,"CAPACITOR, American symbol",http://www.mouser.com/ProductDetail/KEMET/C0402T104K4RACTU/?qs=sGAEpiMZZMs0AnBnWHyRQG4nlryFpqk0iuldPAFqr2g%3d,Mouser,,$1.24,,
+C45,0.1uF,C-USC0402K,C0402K,"CAPACITOR, American symbol",http://www.mouser.com/ProductDetail/KEMET/C0402T104K4RACTU/?qs=sGAEpiMZZMs0AnBnWHyRQG4nlryFpqk0iuldPAFqr2g%3d,Mouser,,$1.24,,
+C46,47uF,0.1UF-0603-25V-5%,603,0.1µF ceramic capacitors,http://www.mouser.com/ProductDetail/Murata-Electronics/ZRB18AR60J476ME01L/?qs=sGAEpiMZZMs0AnBnWHyRQO9VYadaKTO%252bP4WrvUq8FwyMAQotVEzL0w%3d%3d,Mouser,,$0.67,,
+C47,6.2pF,C-USC0402K,C0402K,"CAPACITOR, American symbol",http://www.mouser.com/ProductDetail/Murata-Electronics/GQM1885C2A6R2CB01D/?qs=sGAEpiMZZMs0AnBnWHyRQEzybnecWqjRBc23mM6lmu0%3d,Mouser,,$0.55,,
+C48,6.2pF,C-USC0402K,C0402K,"CAPACITOR, American symbol",http://www.mouser.com/ProductDetail/Murata-Electronics/GQM1885C2A6R2CB01D/?qs=sGAEpiMZZMs0AnBnWHyRQEzybnecWqjRBc23mM6lmu0%3d,Mouser,,$0.55,,
+C49,47uF,0.1UF-0603-25V-5%,603,0.1µF ceramic capacitors,http://www.mouser.com/ProductDetail/Murata-Electronics/ZRB18AR60J476ME01L/?qs=sGAEpiMZZMs0AnBnWHyRQO9VYadaKTO%252bP4WrvUq8FwyMAQotVEzL0w%3d%3d,Mouser,,$0.67,,
+C50,1.0pF,C-USC0402K,C0402K,"CAPACITOR, American symbol",http://www.mouser.com/ProductDetail/AVX/MP023J1R0BBSGTR/500/?qs=sGAEpiMZZMs0AnBnWHyRQB295tntAovf550Q6Yz1RnOxV0Izh1q%2ffw%3d%3d,Mouser,,$5.08,,
+C51,0.1uF,0.1UF-0402-16V-10%,402,0.1µF ceramic capacitors,http://www.mouser.com/ProductDetail/KEMET/C0402T104K4RACTU/?qs=sGAEpiMZZMs0AnBnWHyRQG4nlryFpqk0iuldPAFqr2g%3d,Mouser,,$1.24,,
+C52,100uF,100UF-POLAR-25V-20%(ELEC),PANASONIC_D,100µF polarized capacitors,http://www.mouser.com/ProductDetail/Panasonic/EEE-FK0J101UR/?qs=sGAEpiMZZMukHu%252bjC5l7YUbQ3OA56ociU9944h%252bEV1I%3d,Mouser,,$0.48,,
+C54,0.1uF,C-USC0402K,C0402K,"CAPACITOR, American symbol",http://www.mouser.com/ProductDetail/KEMET/C0402T104K4RACTU/?qs=sGAEpiMZZMs0AnBnWHyRQG4nlryFpqk0iuldPAFqr2g%3d,Mouser,,$1.24,,
+D1,1A/30V,SCHOTTKY-DIODESMD,SMB,Schottky Diode,https://www.digikey.com/product-detail/en/diodes-incorporated/B130-13-F/B130-FDICT-ND/815318,DigiKey,,$0.37,,
+FB1,40Ω/1.5A,FERRITE_BEAD-0603,603,"Ferrite Bead (blocks, cores, rings, chokes, etc.)",https://www.digikey.com/product-detail/en/laird-signal-integrity-products/MI0805K400R-10/240-2389-1-ND/806749,DigiKey,,$0.10,,
+FB2,40Ω/1.5A,FERRITE_BEAD-0603,603,"Ferrite Bead (blocks, cores, rings, chokes, etc.)",https://www.digikey.com/product-detail/en/laird-signal-integrity-products/MI0805K400R-10/240-2389-1-ND/806749,DigiKey,,$0.10,,
+FL1,DEA202450,DEA202450,DEA202450,,http://www.mouser.com/ProductDetail/TDK/DEA202450BT-1294C1-H/?qs=6b17Qqv82iB7j4%2FiaetvHg%3D%3D,Mouser,,$0.51,,
+J1,MJ-3536N,MJ-3536N,MJ-3536N,"Mono Audio Jack, 3.5 MM",https://www.digikey.com/product-detail/en/cui-inc/MJ-3536N/CP-3536N-ND/281264,DigiKey,,$0.70,,
+J2,,USB_MICRO-B_SMT,USB-MICROB,USB Type Micro-B Connector,http://www.mouser.com/ProductDetail/Wurth-Electronics/629105150921/?qs=sGAEpiMZZMulM8LPOQ%252byk2Wnkghg7F8rYcUZnSiyrrsVt5Us70CR3w%3d%3d,Mouser,,$1.99,,
+J3,SJ-3515-SMT,SJ-3515-SMT,SJ-3515-SMT,3.5 Stereo Audio Jack (SMT),http://www.mouser.com/ProductDetail/CUI/SJ-3523-SMT-TR/?qs=WyjlAZoYn51zOHzJ3r4ZRA%3D%3D,Mouser,,$0.93,,
+J4,SJ-3515-SMT,SJ-3515-SMT,SJ-3515-SMT,3.5 Stereo Audio Jack (SMT),http://www.mouser.com/ProductDetail/CUI/SJ-3523-SMT-TR/?qs=WyjlAZoYn51zOHzJ3r4ZRA%3D%3D,Mouser,,$0.93,,
+JMP1,0R-JUMPA,0R-JUMPA,A0R-JMP,SMD 0R 0805 Jumper,https://www.digikey.com/product-detail/en/keystone-electronics/5106/36-5106CT-ND/5118856,DigiKey,,$0.41,,
+JMP2,0R-JUMPA,0R-JUMPA,A0R-JMP,SMD 0R 0805 Jumper,https://www.digikey.com/product-detail/en/keystone-electronics/5106/36-5106CT-ND/5118856,DigiKey,,$0.41,,
+JMP3,0R-JUMPA,0R-JUMPA,A0R-JMP,SMD 0R 0805 Jumper,https://www.digikey.com/product-detail/en/keystone-electronics/5106/36-5106CT-ND/5118856,DigiKey,,$0.41,,
+JMP4,0R-JUMPA,0R-JUMPA,A0R-JMP,SMD 0R 0805 Jumper,https://www.digikey.com/product-detail/en/keystone-electronics/5106/36-5106CT-ND/5118856,DigiKey,,$0.41,,
+JMP5,0R-JUMPA,0R-JUMPA,A0R-JMP,SMD 0R 0805 Jumper,https://www.digikey.com/product-detail/en/keystone-electronics/5106/36-5106CT-ND/5118856,DigiKey,,$0.41,,
+JP1,,JUMPER-2PTH,1X02,Jumper,https://www.digikey.com/product-detail/en/mill-max-manufacturing-corp/999-11-210-10-000000/ED1335-ND/475742,DigiKey,,$1.72,,
+JP91,M02LOCK,M02LOCK,1X02_LOCK,"Standard 2-pin 0.1"" header. Use with",https://www.sparkfun.com/products/8432,SparkFun,,$0.95,,
+JTAG,,M06SILK_FEMALE_PTH,1X06,Header 6,https://www.sparkfun.com/products/116,SparkFun,,$1.50,,
+L1,,INDUCTOR-SPARKFUN0402,C0402,Inductors,http://www.mouser.com/ProductDetail/Coilcraft/0402HP-3N6XGLW/?qs=sGAEpiMZZMsg%252by3WlYCkU2kWFds1hA9DBOxbeT07DXk%3d,Mouser,,$1.82,,
+L5,2.2uH,L-USL2012C,L2012C,"INDUCTOR, American symbol",http://www.mouser.com/ProductDetail/Wurth-Electronics/74479276222C/?qs=sGAEpiMZZMsg%252by3WlYCkU1rpq4xijHR7Nf2BD95w%252bVY%3d,Mouser,,$1.05,,
+L6,1uH,L-USL2012C,L2012C,"INDUCTOR, American symbol",http://www.mouser.com/ProductDetail/Murata-Electronics/LQM21PN1R0MC0D/?qs=sGAEpiMZZMsg%252by3WlYCkU9oBvn8kICtvHEVko4azGeY%3d,Mouser,,$0.27,,
+L7,2.2uH,L-USL2012C,L2012C,"INDUCTOR, American symbol",http://www.mouser.com/ProductDetail/Wurth-Electronics/74479276222C/?qs=sGAEpiMZZMsg%252by3WlYCkU1rpq4xijHR7Nf2BD95w%252bVY%3d,Mouser,,$1.05,,
+R1,100k,R-US_R0402,R0402,"RESISTOR, American symbol",https://www.digikey.com/product-detail/en/yageo/RC0402FR-07100KL/311-100KLRCT-ND/729473,DigiKey,,$0.10,,
+R2,10k,10KOHM-0603-1/10W-1%,603,10kΩ resistor,http://www.mouser.com/ProductDetail/Panasonic/ERA-3AEB103V/?qs=sGAEpiMZZMvdGkrng054t8AJgcdMkx7xm90FdUSGUak%3d,Mouser,,$0.58,,
+R3,1k,1KOHM-0603-1/10W-1%,603,1kΩ resistor,http://www.mouser.com/ProductDetail/ROHM-Semiconductor/ESR03EZPF1001/?qs=sGAEpiMZZMvdGkrng054t4QdAY%2fQ0LweP3Alj3ySgS0%3d,Mouser,,$0.11,,
+R4,1k,1KOHM-0603-1/10W-1%,603,1kΩ resistor,http://www.mouser.com/ProductDetail/ROHM-Semiconductor/ESR03EZPF1001/?qs=sGAEpiMZZMvdGkrng054t4QdAY%2fQ0LweP3Alj3ySgS0%3d,Mouser,,$0.11,,
+R5,10k,10KOHM-0603-1/10W-1%,603,10kΩ resistor,http://www.mouser.com/ProductDetail/Panasonic/ERA-3AEB103V/?qs=sGAEpiMZZMvdGkrng054t8AJgcdMkx7xm90FdUSGUak%3d,Mouser,,$0.58,,
+R6,,R-US_R0402,R0402,"RESISTOR, American symbol",http://www.mouser.com/ProductDetail/ROHM-Semiconductor/ESR01MZPJ102/?qs=sGAEpiMZZMvdGkrng054t621aZ%2fa1rARCmTPwVGboGFmlf6n7GB4Cg%3d%3d,Mouser,,$0.21,,
+R8,10k,10KOHM-0603-1/10W-1%,603,10kΩ resistor,http://www.mouser.com/ProductDetail/Panasonic/ERA-3AEB103V/?qs=sGAEpiMZZMvdGkrng054t8AJgcdMkx7xm90FdUSGUak%3d,Mouser,,$0.58,,
+R57,1k,R-US_R0402,R0402,"RESISTOR, American symbol",http://www.mouser.com/ProductDetail/ROHM-Semiconductor/ESR01MZPJ102/?qs=sGAEpiMZZMvdGkrng054t621aZ%2fa1rARCmTPwVGboGFmlf6n7GB4Cg%3d%3d,Mouser,,$0.21,,
+R58,1k,R-US_R0402,R0402,"RESISTOR, American symbol",http://www.mouser.com/ProductDetail/ROHM-Semiconductor/ESR01MZPJ102/?qs=sGAEpiMZZMvdGkrng054t621aZ%2fa1rARCmTPwVGboGFmlf6n7GB4Cg%3d%3d,Mouser,,$0.21,,
+R59,1k,R-US_R0402,R0402,"RESISTOR, American symbol",http://www.mouser.com/ProductDetail/ROHM-Semiconductor/ESR01MZPJ102/?qs=sGAEpiMZZMvdGkrng054t621aZ%2fa1rARCmTPwVGboGFmlf6n7GB4Cg%3d%3d,Mouser,,$0.21,,
+R61,1k,R-US_R0402,R0402,"RESISTOR, American symbol",http://www.mouser.com/ProductDetail/ROHM-Semiconductor/ESR01MZPJ102/?qs=sGAEpiMZZMvdGkrng054t621aZ%2fa1rARCmTPwVGboGFmlf6n7GB4Cg%3d%3d,Mouser,,$0.21,,
+R64,,R-US_R0402,R0402,"RESISTOR, American symbol",http://www.mouser.com/ProductDetail/ROHM-Semiconductor/ESR01MZPJ102/?qs=sGAEpiMZZMvdGkrng054t621aZ%2fa1rARCmTPwVGboGFmlf6n7GB4Cg%3d%3d,Mouser,,$0.21,,
+R65,,R-US_R0402,R0402,"RESISTOR, American symbol",http://www.mouser.com/ProductDetail/ROHM-Semiconductor/ESR01MZPJ102/?qs=sGAEpiMZZMvdGkrng054t621aZ%2fa1rARCmTPwVGboGFmlf6n7GB4Cg%3d%3d,Mouser,,$0.21,,
+SOP,,M03X22X3_SILK_MALE_PTH,2X3,"2x3 .1"" header.",https://www.sparkfun.com/products/116,SparkFun,,$1.50,,
+TERMINAL_BLOCK,,CONN_04JST-PTH,JST-4-PTH,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,https://www.sparkfun.com/products/9916,SparkFun,,$1.50,,
+U$1,CC3200,CC3200,PVQFN-N64,,https://www.digikey.com/product-detail/en/texas-instruments/CC3200R1M2RGC/296-38012-ND/4959129,DigiKey,,$10.60,,
+U$3,ANTENNA2SMD,ANTENNA2SMD,ANTENNA-CHIP2,Chip antenna,https://www.digikey.com/product-detail/en/taiyo-yuden/AH316M245001-T/587-2200-1-ND/2002898,DigiKey,,$1.41,,
+U1,TLV320AIC3254_RHB_32,TLV320AIC3254_RHB_32,RHB32_3P45X3P45,,http://www.mouser.com/Search/ProductDetail.aspx?R=TLV320AIC3254IRHBRvirtualkey59500000virtualkey595-V320AIC3254IRHBR,Mouser,,$7.39,,
+U2,TPA2012D2_RTJ_20,TPA2012D2_RTJ_20,RTJ20_2P7X2P7,,http://www.mouser.com/Search/ProductDetail.aspx?R=TPA2012D2RTJRvirtualkey59500000virtualkey595-TPA2012D2RTJR,Mouser,,$1.61,,
+U15,AT25FS010,AT25FS010,SO08WIDE,1-Mbit SPI flash memory,http://www.mouser.com/ProductDetail/Microchip-Technology/SST25VF010A-33-4I-SAE/?qs=sGAEpiMZZMtI%252bQ06EiAoG1i1yV4V0SjccEzQYpmJSGE%3d,Mouser,,$0.65,,
+Y2,32.768KHz,CRYSTAL5X3,CRYSTAL-SMD-5X3,Various standard crystals. Proven footprints. Spark Fun Electronics SKU : COM-00534,http://www.mouser.com/ProductDetail/ABRACON/ASFL1-32768MHZ-L-T/?qs=sGAEpiMZZMsLmE2CU4KkzwtqKKPoNFyK,Mouser,,$1.24,,
+Y3,407MHz,CRYSTAL5X3,CRYSTAL-SMD-5X3,Various standard crystals. Proven footprints. Spark Fun Electronics SKU : COM-00534,http://www.mouser.com/ProductDetail/ABRACON/ASFLMB-40000MHZ-LC-T/?qs=sGAEpiMZZMt2Q%252b%2fb08UWm3ZFwJJoIpV7,Mouser,,$1.28,,
